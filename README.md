@@ -37,9 +37,9 @@
 
 ## Overview
 ### computer screen
-![](.img/ss.jpeg)
+![](./img/ss.jpeg)
 ### mobile screen
-![](.img/Mss.jpeg)
+![](./img/Mss.jpeg)
 
 ### Built With
 
